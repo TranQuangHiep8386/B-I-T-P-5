@@ -61,6 +61,8 @@ BÀI TẬP SỐ 5
 ![image](https://github.com/user-attachments/assets/14cdc25e-d241-4d25-a6d9-9351b4d6f6de)
 ![image](https://github.com/user-attachments/assets/a56089a3-89be-44fa-bd31-65b2983fa421)
 
+![image](https://github.com/user-attachments/assets/124ed42d-bb3b-436b-84da-5d81e8495bb1)
+
 # Truy vấn danh sách khách hàng
 ![image](https://github.com/user-attachments/assets/6fd97b7f-e9a2-4e1d-9db1-f03d1ddf0f82)
 # Truy vấn danh sách hóa đơn kèm thông tin khách hàng
