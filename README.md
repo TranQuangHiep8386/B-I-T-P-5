@@ -24,7 +24,35 @@ BÀI TẬP SỐ 5
    Thầy sẽ dùng tool để check các link này.
 
 #  DEADLINE: 23H59:59 NGÀY 23/04/2025
-   # BÀI LÀM
+   # BÀI LÀM 
+  # ĐỂ TÀI : QUẢN LÍBÀI TẬP-5
+BÀI TẬP SỐ 5 
+# Hướng dẫn làm phần A: 
+ - Chỉ cần nêu ra y/c của đồ án.
+ - Không cần chụp quá trình làm ra db, tables.
+ - Chỉ cần đưa ra db gồm các bảng nào,
+   mỗi bảng có các trường nào, kiểu dữ liệu nào,
+   và pk, fk, ck của các bảng.
+
+ # Hướng dẫn làm phần B:
+1. Sv tạo repo mới trên github, cho phép truy cập public.
+2. Tạo file Readme.md, đầu file để thông tin cá nhân sv.
+3. Tiếp theo đưa phần A vào file Reame.md .
+3. Các thao tác làm trên csdl bằng phần mềm ssms.
+4. Chụp ảnh màn hình quá trình làm.
+5. Paste ngay vào Readme.md, 
+   rồi gõ mô tả ảnh này làm gì, nhập gì, hay đạt được điều gì...
+6. Có thể thêm những nhận xét hoặc kết luận
+   cho việc bản thân đã hiểu rõ thêm về 1 vấn đề gì đó.
+7. Lặp lại các step 4 5 6 cho đến khi hoàn thành yêu cầu của phần B.
+8. Xuất các file sql chứa cấu trúc và data, up lên cùng repo.
+9. Link đến repo cần mở được trực tiếp nội dung, 
+   Paste link này vào file excel online ghim trên nhóm.
+   Thầy sẽ dùng tool để check các link này.
+
+#  DEADLINE: 23H59:59 NGÀY 23/04/2025
+   # BÀI LÀM 
+  # ĐỂ TÀI : QUẢN LÝ QUÁN NET
    tạo bảng
    ![image](https://github.com/user-attachments/assets/14e9aa14-e479-403f-85d0-f9ecc4c50e47)
 ![image](https://github.com/user-attachments/assets/8125ead5-aa15-46f8-b844-51e6190c6519)
